@@ -1,9 +1,9 @@
 # SOFE2720 | GROUP 18 - airlineReservationSystem
 
-##Introduction
+## Introduction
 
 
-##Table of Contents
+## Table of Contents
 1. [**Introduction**](#introduction)
 
 
