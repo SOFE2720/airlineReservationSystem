@@ -1,6 +1,6 @@
 # SOFE2720 | GROUP 18 - airlineReservationSystem
 
-## Introduction
+## Project Description
 
 
 ## Table of Contents
