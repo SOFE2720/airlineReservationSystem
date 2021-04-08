@@ -12,3 +12,5 @@ For this project, we are proposing to create an easy to use flight reservation w
 To create a user friendly flight reservation website that will acclimate every type of user including novice users.
 
 ## How to access the website
+
+### Step 1
