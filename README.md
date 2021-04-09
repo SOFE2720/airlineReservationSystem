@@ -8,15 +8,22 @@
 
 3. [Design Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Design)
  i.) [UML Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/umlDiagram.pdf)
+ 
  ii.) [Class Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/conceptualClassDraft.pdf)
+ 
  iii.) [System Level Sequence Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/systemLevelSequenceDiagram.pdf)
+ 
  iv.) [Class Level Sequence Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/classLevelSequenceDiagram.pdf)
+ 
  v.) [State Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/stateModelDiagram.pdf)
+ 
  vi.) [Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/wireFrame.pdf)
+ 
  vii.) Design Review Checklist
  
 4. [Requirements Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Requirements)
  i.) [Formal Requirements](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/formalRequirements.pdf)
+ 
   ii.) [Requirements Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/requirementsDiagram.pdf)
 
 5. [Test Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Test%20Case)
