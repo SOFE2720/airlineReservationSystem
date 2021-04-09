@@ -7,7 +7,7 @@
 * i.) [UML Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/umlDiagram.pdf)
 * ii.) [Class Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/conceptualClassDraft.pdf)
 * iii.) [System Level Sequence Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/systemLevelSequenceDiagram.pdf)
-* iv.[Class Level Sequence Diagram] (https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/classLevelSequenceDiagram.pdf)
+* iv.) [Class Level Sequence Diagram] (https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/classLevelSequenceDiagram.pdf)
 * v.) [State Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/stateModelDiagram.pdf)
 * vi.) [Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/wireFrame.pdf)
  
