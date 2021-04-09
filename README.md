@@ -41,7 +41,7 @@ Scope:
    * End users are individuals who use the website to book a flight and navigate the website while customers performs the transaction to complete the flight booking. These two roles are typically filled by the same person.
 
 ***Facilitator:*** 
-   * 
+   * Facilitator are responsible to keeping the group make progress and succeed, which can include setting guidelines. This role was fufilled by the lab TA and the professor.
 
 ***Software Developer:***
    * Developers consists of two students and responsible for developing a working airline booking system that is user friendly that can be used by anyone.
@@ -55,8 +55,8 @@ Scope:
       * departure/return date,
       * round trip/one way
 
- ***Confirm Booking***
-   * After choosing from available flight options; will have the chance to confirm/change bookings
+ ***Search Flights***
+   * After making selections from the booking page, available airlines will appear on the next page based on destination.
 
  ***Login / Signup Page***
    * For new or existing users to be able to view flight bookings.
