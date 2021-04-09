@@ -39,7 +39,7 @@ Scope:
 ## Stakeholders
 
 ## Major Features
- * Quick Booking on the Home Page
+ * Quick Booking in the Home Page
     
  * Popular Destinations
     
