@@ -78,3 +78,6 @@ Scope:
  ***Constraints***
    * Project must be submitted by April 11
    * Must run on any platform and on any mobile operating system
+
+## Instructions
+***How to***
