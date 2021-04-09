@@ -15,9 +15,15 @@
 * i.) [Formal Requirements](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/formalRequirements.pdf)
 * ii.) [Requirements Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/requirementsDiagram.pdf)
 
-4. [Use Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Use%20Cases)
+4. [Test Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Test%20Case)
 
- 
+5. [Use Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Use%20Cases)
+* i.) [Jam Board](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/jamboard.pdf)
+* ii.) [Narrative Acceptance Criteria](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/narrativeAcceptanceCriteria.pdf)
+* iii.) [Use Case Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/useCaseDiagram.pdf)
+* iv.) [Use Case Descriptions](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/useCaseDescriptions.pdf)
+* v.) [User Story Objects](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/userStoryObjects.pdf)
+
 ## Introduction
 The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.
 
