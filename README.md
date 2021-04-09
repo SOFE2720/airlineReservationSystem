@@ -40,11 +40,9 @@ Scope:
 
 ## Major Features
  * Quick Booking in the Home Page
-    
- * Popular Destinations
-    
- * Covid-19 Travel Updates
-    
+ * Confirm Booking    
+ * Popular Destinations    
+ * Covid-19 Travel Updates    
  * Login / Signup Page
     
 
