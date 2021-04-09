@@ -55,8 +55,8 @@ Scope:
       * departure/return date,
       * round trip/one way
 
- ***Confirm Booking***
-   * After choosing from available flight options; will have the chance to confirm/change bookings
+ ***Search Flights***
+   * After making selections from the booking page; available airline will appear on the next page based on destination.
 
  ***Login / Signup Page***
    * For new or existing users to be able to view flight bookings.
