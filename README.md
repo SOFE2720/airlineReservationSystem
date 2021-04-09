@@ -37,17 +37,14 @@ Visition Statement: To create a user friendly flight reservation website that wi
 Scope: 
 
 ## Stakeholders
-***Customer:*** 
-   * asddasf
-
-***End User:*** 
-   * sdf
+***End User & Customer:*** 
+   * End users are individuals who use the website to book a flight and navigate the website while customers performs the transaction to complete the flight booking. These two roles are typically filled by the same person.
 
 ***Facilitator:*** 
-   * fds
+   * 
 
 ***Software Developer:***
-   * fsd
+   * Developers consists of two students and responsible for developing a working airline booking system that is user friendly that can be used by anyone.
 
 ## Major Features
  ***Home Page***
@@ -66,18 +63,18 @@ Scope:
 
  ***Popular Destinations***
    * Redirected to the rankings of best places to visit to consider when planning for the perfect vacation spot.
-   
+
  ***Covid-19 Travel Updates***
    * Due to the current pandemic, travel updates will be posted regularly. (redirected to Canada's official travel advisories) 
 
 ## Product Assumptions and Constraints
-   #### Assumptions
+ ***Assumptions***
    * We have all the tools and latest technology to develop and run the application
    * We expect to implement all the stakeholder needs and requirements by the deadline
    * We expect to follow the structure of the design without making substantial changes
    * Will be needing to use frameworks and libraries
    * Will not be adding more functionalities than originally planned
 
-   #### Constraints
+ ***Constraints***
    * Project must be submitted by April 11
    * Must run on any platform and on any mobile operating system
