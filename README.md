@@ -1,9 +1,8 @@
 # SOFE2720 | GROUP 18 - airlineReservationSystem
 
 ## Table of Contents
-1. [Main Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Main%20Folder)
-* i.) Tracability Matrix
-* ii.) Team Assessment Report
+1. [Main Folder](https://github.com/SOFE2720/airlineReservationSystem)
+* i.) Team Assessment Report
 
 2. [Code Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Code)
 
