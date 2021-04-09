@@ -38,7 +38,15 @@ Scope:
 
 ## Stakeholders
 
-## Features
+## Major Features
+ * Home Page
+    * 
+ * Popular Destinations
+    * 
+ * Covid-19 Travel Updates
+    * 
+ * Login / Signup Page
+    * 
 
 ## Product Assumptions and Constraints
 ### Assumptions
