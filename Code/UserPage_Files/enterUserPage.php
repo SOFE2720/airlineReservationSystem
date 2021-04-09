@@ -12,8 +12,8 @@
 </head>
 
 <body>
-    <form action="../HomePage/homePage.html">
-        <input type="submit" value="< go back">
+    <form action="../HomePage.php">
+        <input type="submit" value="< Go Back to Home">
     </form>
     <h1>Menu</h1>
     <table class="tableOutline">

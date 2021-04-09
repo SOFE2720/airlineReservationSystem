@@ -1,10 +1,20 @@
+
+#bar{ 
+  margin-left: 0px;
+  text-align: center;
+  background-color: #b41c1c;
+ margin: 0px;
+  height: 50px;
+  
+}
+
 .hover {
   display: inline-block;
   backface-visibility: hidden;
   vertical-align: middle;
   position: relative;
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  tranform: translateZ(0);
+  transform: translateZ(0);
   transition-duration: 0.3s;
   transition-property: transform;
 }
@@ -66,7 +76,6 @@
   animation-duration: 2s;
 }
 
-/*everything below here is just setting up the page, so dont worry about it */
 @media (min-width: 768px) {
   .navbar {
     text-align: center !important;
@@ -93,6 +102,201 @@ nav li a {
   transition: 0.5s color ease-in-out;
 }
 
-.page-title {
-  opacity: 0.75 !important;
+html, body{
+	background: url("images/home_background.jpg");
+    background-repeat: no-repeat;
+    background-color: #e6e6e6;
+    background-size: cover;  
+    background-position: center;  
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    min-height: 100%;
 }
+
+
+#menu_logo{
+	height: 80px;
+	float:left;
+	margin-top: 3px;
+	margin-left: 25px;
+}
+
+.quick_book{
+	width: 440px;
+	height: 440px;
+	background-color: rgba(12,35,75,0.7);
+	display: inline-block;
+	text-transform: uppercase;
+	font-family: helvetica, arial, times;
+	font-size: 14px;
+	color: white;
+	padding: 25px;
+}
+
+.available_flights{
+	width: 440px;
+	height: 440px;
+	background-color: rgba(12,35,75,0.7);
+  display: inline-block;
+	text-transform: uppercase;
+  text-align:left;
+	font-family: helvetica, arial, times;
+	font-size: 14px;
+	color: white;
+	padding: 25px;
+}
+
+.contact_us{
+	width: 440px;
+	height: 440px;
+	background-color: rgba(12,35,75,0.7);
+  display: inline-block;
+  text-align:left;
+	font-family: helvetica, arial, times;
+	font-size: 14px;
+	color: white;
+	padding: 25px;
+}
+
+.about_us{
+	width: 440px;
+	height: 440px;
+	background-color: rgba(12,35,75,0.7);
+  display: inline-block;
+  text-align:left;
+	font-family: helvetica, arial, times;
+	font-size: 14px;
+	color: white;
+	padding: 25px;
+}
+
+#search{
+	background-color: #98012E; /* Delta Red */
+    border: none;
+    color: white;
+    padding: 10px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: helvetica, arial, times;
+}
+
+#return_date, #depart_date{
+  color: black;
+	width: 125px;
+}
+#origin_drop, #destination_drop{
+  color:black;
+	width: 160px;
+}
+#passenger_num{
+	width: 30px;
+}
+
+#passenger_drop{
+  color: black;
+}
+
+#trip_drop{
+  color: black;
+	font-family: helvetica;
+}
+
+#from_block{
+	float: left;
+	text-align: left;
+	padding: 10px; 
+	margin-left: 10px;
+}
+
+#to_block{
+	float:left;
+	padding: 10px; 
+	text-align: left;
+	margin-left: 10px;
+}
+
+#depart_block{
+	float: left;
+	text-align: left;
+	padding: 15px; 
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+
+#return_block{
+	float:left;
+	padding: 15px; 
+	text-align: left;
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 25px;
+}
+
+#passenger_block{
+	float:left;
+	padding: 15px; 
+	text-align: left;
+	margin-left: 0px;
+	padding-top: 5px;
+	padding-bottom: 30px;
+}
+
+#trip_block{
+	float:left;
+	padding: 15px; 
+	text-align: left;
+	margin-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+#booking_header{
+	background-color: #98012E;
+  font-size: 18px;
+  font-style: bol;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	-webkit-margin-before: 0em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+.warning{
+	background-color: #98012E;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	-webkit-margin-before: 0em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    color: white;
+	font-family: helvetica, arial, times;
+	font-size: 14px;
+}
+
+#toChange, table{
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td{
+	padding: 8px;
+	text-align: left;
+    border-bottom: 1px solid white;
+}
+
+
+.box {
+    clear: both;
+    float: left;
+    background: rgba(12,35,75,0.0);
+    height: 50px;
+    width:50px;
+}
+
