@@ -24,14 +24,13 @@
 * iv.) [Use Case Descriptions](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/useCaseDescriptions.pdf)
 * v.) [User Story Objects](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/userStoryObjects.pdf)
 
-## Introduction
-The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.
+## Project Description (Vision and Scope)
+Visition Statement: To create a user friendly flight reservation website that will acclimate every type of user including novice users.
 
-For this project, we are proposing to create an easy to use flight reservation website that will accommodate every type of user, from intermediate to novice. By using the structured approach that we had learned in this lab, we’ll be able to identify the problems, capture the requirements of stakeholders and come up with better solutions effectively.
+Scope: 
 
-## Vision Statement
-To create a user friendly flight reservation website that will acclimate every type of user including novice users.
+## Stakeholders
 
-## How to access the website
+## Features
 
-### Step 1
+# Product Assumptions and Constraints
