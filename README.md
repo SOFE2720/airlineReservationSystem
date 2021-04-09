@@ -13,6 +13,7 @@
  * iv.) [Class Level Sequence Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/classLevelSequenceDiagram.pdf)
  * v.) [State Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/stateModelDiagram.pdf)
  * vi.) [Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/wireFrame.pdf)
+ * vii.) [Home Page Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/homePrototype.pdf)
  * vii.) Design Review Checklist
  
 4. [Requirements Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Requirements)
