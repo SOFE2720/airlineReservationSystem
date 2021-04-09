@@ -1,7 +1,9 @@
 # SOFE2720 | GROUP 18 - airlineReservationSystem
 
 ## Table of Contents
-1. [**test**](#project-description)
+1. [Code](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Code)
+ 
+ 
 
 ## Introduction
 The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.
