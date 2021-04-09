@@ -4,10 +4,13 @@
 1. [Code Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Code)
 
 2. [Design Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Design)
-* i.)
+* i.) [UML Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/umlDiagram.pdf)
+* ii.) [Class Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/conceptualClassDraft.pdf)
+* iii.) [System Level Sequence Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/systemLevelSequenceDiagram.pdf)
+* iv.[Class Level Sequence Diagram] (https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/classLevelSequenceDiagram.pdf)
+* v.) [State Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/stateModelDiagram.pdf)
+* vi.) [Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/wireFrame.pdf)
  
- 
-
 ## Introduction
 The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.The purpose of this lab is to learn how to gather the needs and requirements of stakeholders using a formal approach. This is a standard requirement that must be met in order to achieve our goals in an organized way, making it easier to identify and solve problems and communicate our solutions effectively with stakeholders.
 
