@@ -1,7 +1,10 @@
 # SOFE2720 | GROUP 18 - airlineReservationSystem
 
 ## Table of Contents
-1. [Code](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Code)
+1. [Code Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Code)
+
+2. [Design Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Design)
+* i.)
  
  
 
