@@ -36,6 +36,16 @@ Visition Statement: To create a user friendly flight reservation website that wi
 
 Scope: 
 
+## Stakeholders
+Customer - ...
+   * 
+End User - ...
+   * 
+Facilitator - ...
+   * 
+Software Developer - ...
+   * 
+
 ## Major Features
  * Home Page
     * Allows navigation between webpages
@@ -52,7 +62,6 @@ Scope:
     * Redirected to the rankings of best places to visit to consider when planning for the perfect vacation spot.
  * Covid-19 Travel Updates
     * Due to the current pandemic, travel updates will be posted regularly. (redirected to Canada's official travel advisories) 
-   
 
 ## Product Assumptions and Constraints
 ### Assumptions
