@@ -80,4 +80,13 @@ Scope:
    * Must run on any platform and on any mobile operating system
 
 ## Instructions
-***How to***
+***How to access log in / registration link from home page?***
+
+Steps:
+1. Place Code Folder in C:\wamp64\www (depending on where you wamp folder is, but it must be dropped in www folder of wamp)
+2. Open WAMP server and connect to localhost
+3. Open Code Folder from the local host e.g. http://localhost/CodeFolder 
+4. Click on HomePage.html after opening Code Folder
+5. From here you while viewing the home page, you can access the login page after clicking on Sign In in the menu. 
+
+These instructions will also be demonstrated in the video.
