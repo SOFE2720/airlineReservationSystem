@@ -50,21 +50,25 @@ Scope:
    * fsd
 
 ## Major Features
- * ***Home Page***
-    * Allows navigation between webpages
-    * Flight Bookings
-       * Search available flights given the chosen 
-         * origin/destination airport, 
-         * departure/return date,
-         * round trip/one way
- * ***Confirm Booking***
-    * After choosing from available flight options; will have the chance to confirm/change bookings
- * ***Login / Signup Page***
-    * For new or existing users to be able to view flight bookings.
- * ***Popular Destinations***
-    * Redirected to the rankings of best places to visit to consider when planning for the perfect vacation spot.
- * ***Covid-19 Travel Updates***
-    * Due to the current pandemic, travel updates will be posted regularly. (redirected to Canada's official travel advisories) 
+ ***Home Page***
+   * Allows navigation between webpages
+   * Flight Bookings
+      * Search available flights given the chosen 
+      * origin/destination airport, 
+      * departure/return date,
+      * round trip/one way
+
+ ***Confirm Booking***
+   * After choosing from available flight options; will have the chance to confirm/change bookings
+
+ ***Login / Signup Page***
+   * For new or existing users to be able to view flight bookings.
+
+ ***Popular Destinations***
+   * Redirected to the rankings of best places to visit to consider when planning for the perfect vacation spot.
+   
+ ***Covid-19 Travel Updates***
+   * Due to the current pandemic, travel updates will be posted regularly. (redirected to Canada's official travel advisories) 
 
 ## Product Assumptions and Constraints
    #### Assumptions
