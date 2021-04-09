@@ -40,13 +40,18 @@ Scope:
 
 ## Major Features
  * Home Page
-    * 
- * Popular Destinations
-    * 
- * Covid-19 Travel Updates
-    * 
+    * Allows navigation between webpages
  * Login / Signup Page
-    * 
+    * For new or existing users to be able to view flight bookings.
+ * Popular Destinations
+    * Ranking the best places to visit to consider when planning for the perfect vacation spot.
+ * Covid-19 Travel Updates
+    * Due to the current pandemic, travel updates will be posted regularly. (redirected to Canada's official travel advisories)
+ * Flight Bookings
+    * Search available flights given the chosen 
+       * origin/destination airport, 
+       * departure/return date,
+       * round trip/one way
 
 ## Product Assumptions and Constraints
 ### Assumptions
