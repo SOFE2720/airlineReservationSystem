@@ -53,7 +53,7 @@ Scope:
  * Popular Destinations
     * Redirected to the rankings of best places to visit to consider when planning for the perfect vacation spot.
  * Covid-19 Travel Updates
-    * Due to the current pandemic, travel updates will be posted regularly. (redirected to Canada's official travel advisories)
+    * Due to the current pandemic, travel updates will be posted regularly. (redirected to Canada's official travel advisories) 
    
 
 ## Product Assumptions and Constraints
