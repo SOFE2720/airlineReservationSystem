@@ -56,7 +56,7 @@ Scope:
       * round trip/one way
 
  ***Search Flights***
-   * After making selections from the booking page; available airline will appear on the next page based on destination.
+   * After making selections from the booking page, available airlines will appear on the next page based on destination.
 
  ***Login / Signup Page***
    * For new or existing users to be able to view flight bookings.
