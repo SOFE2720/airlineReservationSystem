@@ -41,3 +41,15 @@ Scope:
 ## Features
 
 ## Product Assumptions and Constraints
+### Assumptions
+ * We have all the tools and latest technology to develop this application
+ * We expect to store information, user records into the database without any problems
+ * We expect to implement all the stakeholder requirements by the deadline
+ * We expect to follow the structure of a user interface without making any changes down the road
+ * Will be needing to use frameworks and libraries
+ * Will not be adding more functionalities than originally planned
+
+### Constraints
+ * Project must be submitted by April
+ * Must run on any platform and on any mobile operating system
+ * Accept credit card/debit cards only (no cash)
