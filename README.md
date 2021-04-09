@@ -14,15 +14,13 @@
       * v.) [State Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/stateModelDiagram.pdf)
       * vi.) [Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/wireFrame.pdf)
       * vii.) [Home Page Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/homePrototype.pdf)
-      * vii.) Design Review Checklist
- 
+       
 4. [Requirements Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Requirements)
       * i.) [Formal Requirements](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/formalRequirements.pdf) 
       * ii.) [Requirements Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/requirementsDiagram.pdf)
 
 5. [Test Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Test%20Case)
-      * i.) Test Cases
-      * ii.) Tracability Matrix
+      * i.) Tracability Matrix
 
 6. [Use Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Use%20Cases)
       * i.) [Jam Board](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/jamboard.pdf)
