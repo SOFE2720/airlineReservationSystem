@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <form action="../HomePage.php">
+    <form action="../HomePage.html">
         <input type="submit" value="< Go Back to Home">
     </form>
     <h1>Menu</h1>
