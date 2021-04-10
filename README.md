@@ -86,5 +86,3 @@ Steps:
 3. Open Code Folder from the local host e.g. http://localhost/CodeFolder 
 4. Click on HomePage.html after opening Code Folder
 5. From here while viewing the home page, you can access the login page after clicking on Sign In in the menu. 
-
-These instructions will also be demonstrated in the video.
