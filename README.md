@@ -20,7 +20,7 @@
       * ii.) [Requirements Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/requirementsDiagram.pdf)
 
 5. [Test Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Test%20Case)
-      * i.) Tracability Matrix
+      * i.) [Tracability Matrix](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Test%20Case/Requirements%20Traceability%20Matrix.pdf)
 
 6. [Use Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Use%20Cases)
       * i.) [Jam Board](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/jamboard.pdf)
