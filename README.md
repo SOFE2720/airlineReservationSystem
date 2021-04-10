@@ -32,7 +32,7 @@
 ## Project Description (Vision and Scope)
 Visition Statement: To create a user friendly flight reservation website that will acclimate every type of user including novice users.
 
-Scope: 
+Scope: The reservation system will be presented in a website form that is straightforward and easily navigated. In doing so will allow customers to book a flight within minutes. The website needs to be presentable and pleasing on the eye in order to attract individuals looking to fly on vacation, businness, or personal reasons.
 
 ## Stakeholders
 ***End User & Customer:*** 
