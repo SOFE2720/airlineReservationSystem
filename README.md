@@ -14,15 +14,13 @@
       * v.) [State Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/stateModelDiagram.pdf)
       * vi.) [Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/wireFrame.pdf)
       * vii.) [Home Page Prototype](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Design/homePrototype.pdf)
-      * vii.) Design Review Checklist
- 
+       
 4. [Requirements Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Requirements)
       * i.) [Formal Requirements](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/formalRequirements.pdf) 
       * ii.) [Requirements Diagram](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Requirements/requirementsDiagram.pdf)
 
 5. [Test Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Test%20Case)
-      * i.) Test Cases
-      * ii.) Tracability Matrix
+      * i.) Tracability Matrix
 
 6. [Use Cases Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Use%20Cases)
       * i.) [Jam Board](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Use%20Cases/jamboard.pdf)
@@ -78,3 +76,15 @@ Scope:
  ***Constraints***
    * Project must be submitted by April 11
    * Must run on any platform and on any mobile operating system
+
+## Instructions
+***How to access log in / registration link from home page?***
+
+Steps:
+1. Place Code Folder in C:\wamp64\www (depending on where you wamp folder is, but it must be dropped in www folder of wamp)
+2. Open WAMP server and connect to localhost
+3. Open Code Folder from the local host e.g. http://localhost/CodeFolder 
+4. Click on HomePage.html after opening Code Folder
+5. From here while viewing the home page, you can access the login page after clicking on Sign In in the menu. 
+
+These instructions will also be demonstrated in the video.
