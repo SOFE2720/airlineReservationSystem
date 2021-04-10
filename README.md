@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Main Folder](https://github.com/SOFE2720/airlineReservationSystem)
-      * i.) Team Assessment Report
+      * i.) [Team Assessment Report](https://github.com/SOFE2720/airlineReservationSystem/blob/master/Team%20Reflection%20Assessment.pdf)
 
 2. [Code Folder](https://github.com/SOFE2720/airlineReservationSystem/tree/master/Code)
 
